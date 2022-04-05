@@ -20,9 +20,9 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 |------------|----------------------------------|
 | 05/04/2022 | Início do projeto                |
 | 05/04/2022 | Escolha da proposta              |
-| 05/04/2022 | Pesquisou a temática da proposta |
-| 05/04/2022 | Definiu as etapas do projeto     |
-| 05/04/2022 | Iniciou o protótipo              |
+| 05/04/2022 | Pesquisa da temática             |
+| 05/04/2022 | Definição das etapas do projeto  |
+| 05/04/2022 | Início do protótipo              |
 
 
 
