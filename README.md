@@ -1,5 +1,10 @@
 ### O Sistema Solar
 
+#### Integrantes
+- Cesar Mauricio Chauchuty
+- Matheus Schmidt
+- Pablo Santos
+
 #### Proposta
 A composição do sistema solar.
 
@@ -27,4 +32,5 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 
 
 #### Protótipo
+![alt text](./images/prototipo_apresentacao.png "Title")
 https://whimsical.com/engenharia-de-software-TFjAgh78cScFKE626XipWR
