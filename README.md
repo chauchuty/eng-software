@@ -13,7 +13,7 @@ Compreender os planetas que compõem nosso sistema solar, assim como suas curios
 
 #### Conteúdo
 A primeira parte da proposta apresentada, será uma sequência de "slides" explicativos sobre todos os planetas que compõem o sistema solar.
-Como também, a importância da passagem de uma visão antropocêntria para heliopocêntrica.
+Como também, a importância da passagem de uma visão geocêntrica para heliocêntrica.
 
 A segunda parte haverá um "quiz".
 Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este jogo irá ter um sistema de pontuação, sendo assim, usaremos os pontos para dar um "feedback" ao usuário.
@@ -33,4 +33,5 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 
 #### Protótipo
 ![alt text](./images/prototipo_apresentacao.png "Title")
-https://whimsical.com/engenharia-de-software-TFjAgh78cScFKE626XipWR
+
+`https://whimsical.com/engenharia-de-software-TFjAgh78cScFKE626XipWR`
