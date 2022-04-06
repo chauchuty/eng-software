@@ -9,7 +9,7 @@
 A composição do sistema solar.
 
 #### Objetivo
-Compreender os planetas que compõem nosso sistema solar, assim como suas curiosidades e características. Identificar a importância da passagem de uma visão antropocêntrica para heliocêntrica.
+Compreender os planetas que compõem nosso sistema solar, assim como suas curiosidades e características. Identificar a importância da passagem de uma visão geocêntrica para heliocêntrica.
 
 #### Conteúdo
 A primeira parte da proposta apresentada, será uma sequência de "slides" explicativos sobre todos os planetas que compõem o sistema solar.
@@ -33,5 +33,3 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 
 #### Protótipo
 ![alt text](./images/prototipo_apresentacao.png "Title")
-
-`https://whimsical.com/engenharia-de-software-TFjAgh78cScFKE626XipWR`
