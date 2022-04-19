@@ -29,6 +29,8 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 | 05/04/2022 | Definição das etapas do projeto  |
 | 05/04/2022 | Início do protótipo              |
 | 11/04/2022 | Desenvolvimento do protótipo     |
+| 12/04/2022 | Conclusão do protótipo           |
+
 
 
 
