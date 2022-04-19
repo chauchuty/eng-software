@@ -29,10 +29,12 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 | 05/04/2022 | Definição das etapas do projeto  |
 | 05/04/2022 | Início do protótipo              |
 | 11/04/2022 | Desenvolvimento do protótipo     |
-| 14/04/2022 | Conclusão do protótipo           |
-
-
-
+| 11/04/2022 | Desenvolvimento do 'uso de caso' |
+| 19/04/2022 | Conclusão do protótipo           |
+| 19/04/2022 | Conclusão do 'use case'          |
 
 #### Protótipo
 ![alt text](./images/prototipo.png "Title")
+
+#### Use Case
+![alt text](./images/usecase.png "Title")
