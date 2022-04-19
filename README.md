@@ -35,4 +35,4 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 
 
 #### Protótipo
-![alt text](./images/prototipo_apresentacao.png "Title")
+![alt text](./images/prototipo.png "Title")
