@@ -5,7 +5,6 @@
 - Erickson Tulio
 - Matheus Schmidt
 - Pablo Santos
-- Erickson Tulio
 
 #### Proposta
 A composição do sistema solar.
