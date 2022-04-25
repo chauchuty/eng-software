@@ -4,20 +4,25 @@
 - Cesar Mauricio Chauchuty
 - Matheus Schmidt
 - Pablo Santos
+- Erickson Tulio
 
 #### Proposta
 A composição do sistema solar.
 
 #### Objetivo
-Compreender os planetas que compõem nosso sistema solar, assim como suas curiosidades e características. Identificar a importância da passagem de uma visão geocêntrica para heliocêntrica.
+Compreender os planetas que compõem nosso sistema solar, assim como suas curiosidades e características.
 
-#### Conteúdo
-A primeira parte da proposta apresentada, será uma sequência de "slides" explicativos sobre todos os planetas que compõem o sistema solar.
-Como também, a importância da passagem de uma visão geocêntrica para heliocêntrica.
+#### Fases
+A primeira parte da proposta será uma sequência de "slides" explicativos sobre todos os planetas que compõem o sistema solar. Assim sendo, haverá perguntas as quais o usuário deverá responder.
+A segunda parte solicitará ao usuário que arraste os planetas - suas imagens - para a posição corresponde que o exercício solicita.
 
-A segunda parte haverá um "quiz".
-Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este jogo irá ter um sistema de pontuação, sendo assim, usaremos os pontos para dar um "feedback" ao usuário.
-
+#### Protótipo
+![alt text](./images/prototipo.png "Title")
+#  
+#  
+#  
+#### Use Case
+![alt text](./images/usecase.png "Title")
 
 #### Cronograma
 
@@ -32,9 +37,3 @@ Iniciará um jogo de perguntas e respostas sobre a temática apresentada. Este j
 | 11/04/2022 | Desenvolvimento do 'uso de caso' |
 | 19/04/2022 | Conclusão do protótipo           |
 | 19/04/2022 | Conclusão do 'use case'          |
-
-#### Protótipo
-![alt text](./images/prototipo.png "Title")
-
-#### Use Case
-![alt text](./images/usecase.png "Title")
