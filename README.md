@@ -2,6 +2,7 @@
 
 #### Integrantes
 - Cesar Mauricio Chauchuty
+- Erickson Tulio
 - Matheus Schmidt
 - Pablo Santos
 - Erickson Tulio
